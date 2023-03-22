@@ -1,2 +1,3 @@
 # LINQi_töö
-kkkkk
+        //ThenBy sorteerib muutujaid pärast OrderBy-t.
+        //ThenBy sorteerib üldiselt ja OrderBy sorteerib spetsiifilises järjekorras.
