@@ -1,1 +1,2 @@
 # LINQi_töö
+kkkkk
